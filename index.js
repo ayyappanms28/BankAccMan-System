@@ -1,5 +1,3 @@
-
-
 var allUserData = [];
 
 function nextpage() {
