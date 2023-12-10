@@ -1,0 +1,19 @@
+
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 200px;
+}
+
+.signup-submit {
+    width: 8em;
+    height: 3em;
+    background-color: rgb(102, 102, 240);
+    color: whitesmoke;
+    font-size: 1em;
+    margin: 2em 2em 0 1em;
+}

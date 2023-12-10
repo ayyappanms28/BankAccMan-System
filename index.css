@@ -1,0 +1,64 @@
+
+
+
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    
+    background-color: yellowgreen;
+    width: 10em;
+    height: 1.5em;
+    margin: 1px 3px 1px 3px;
+    text-align: center;
+    vertical-align: center;
+}
+
+h2 {
+    background-color: blue;
+    width: 10em;
+    height: 2.5em;
+    text-align: center;
+    vertical-align: center;
+    margin-top: 10px;
+}
+
+p {
+    font-style: italic;
+    font-weight: 1000;
+    font-size: x-large;
+}
+
+.about-money {
+    display: flex;
+    justify-content: center;
+}
+
+.click-button {
+    width: 10em;
+    height: 3em;
+    background-color: maroon;
+    color: wheat;
+    margin: 3px 10px 3px 20px;
+    padding: 5px 5px 5px 5px;
+    font-size: 1.5em;  
+}
+
+.initial-credits {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up ,.login{
+    width: 8em;
+    height: 3em;
+    background-color: rgb(102, 102, 240);
+    color: whitesmoke;
+    font-size: 1em;
+    margin-top: 0 2em 0 1em;
+}
